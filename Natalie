@@ -1,0 +1,66 @@
+Team Profile:
+
+Personal Information:
+Natalie Muhar, s3602994, I studied Bachelor of Applied Science for 2 years before entering IT, I enjoy water skiing in my spare time. My interest in IT was started by my mother who has worked in IT for 30 years, mainly doing SAP work. Coming home from work she would regularly tell my sisters and I the different systems she was working on and things she was programming. I was always very interested and decided that IT would be the best field for me to enter.
+
+Jora is job search engine much like Seek, they allow job searchers to easily find an available job in their profession. It is set out much like Google, with a simple search bar centred on the page, along with an area locater, making it very accessible. They are looking for a skilled developer wishing to design, build, test and deploy projects.
+For this position a degree in Computer Science is preferred, good problem-solving skills, previous experience or interest in working with Ruby, and an understanding of how search engines operate is required. I have no experience in the programming required for this job, I do not currently hold any degree in Computer Science or anything similar, however I do enjoy problem solving and have some skills in that.
+To become a proper candidate for this job, I would need to complete my course, possibly completing an internship within it for real experience in the work force. I would need to hold a graduate job and build up my skills in programming, specifically Ruby and search engines.
+
+Profile Link:
+https://s3-ap-southeast-2.amazonaws.com/s3602994/assignment1.html
+
+Industry Data:
+Ideal Job: Senior Developer
+
+1. As of March 2018, this job is ranked quite low, 3rd from the bottom, with only 278, top job titles that are listed as developer. However, in May 2017, this was ranked first with 7,952, indicating the demand for this job has decreased.
+2a. Website production would be a vital skill in terms of working for Jora, this is ranked 17th in the top 25 skills most searched for. As for other important IT-specific skills, developing in ruby and ruby on rails, is not widely used in the field, the most important language is SQL and experience in search technologies is also not as common. Systems engineering may be useful in this job, and this skill is ranked 24th, however other skills such as deployment and use of infrastructure are not in high demand.
+b. The most important generic skill for this job would be problem-solving, this is ranked 2nd  out of 25 of high demand skills, indicating employers are mostly looking for people who are logical and can work through complex issues. Communication skills would also be very important as this job requires you to work in a team, this is ranked first.
+c. The top 3 IT skills not in my skillset are SQL, JavaScript and JAVA. These are all coding languages that seem to be very important within today's technology.
+d. The top 3 generic skills not in my skillset are organisational skills, writing and team work/collaboration. 
+3. Yes, my opinion on my ideal job has changed, as this job requires Ruby as the primary language, however other languages such as SQL, JavaScript and JAVA seem to be in higher demand, therefore it is more likely that more jobs would be looking for this skill, so I should be learning about these languages instead of Ruby which seems to be a rarer language.
+
+IT Work:
+
+
+1.	Please tell us about your IT work. What exactly do you do?
+My job title is a Technical Analyst and I support the SAP system, I write programs, enhance the SAP programs to support the business.
+2.	Please tell us about the industry you work in.
+I work for the IT department of a Utilities company. There are many groups within the IT department. For e.g. Applications, Infrastructure, Desktop Support, Telecommunications.
+A lot of the Utilities industry use SAP ISU to support their business. ISU is an industry specific
+solution for managing Electricity, Gas and Water to read meters and bill the retailer. 
+We also use SAP ERP for Financial reporting, Payroll and Plant Maintenance to schedule and control the maintenance and construction business.
+3.	What other kinds of work do you have to do?
+Working with other IT resources to solve problems for the business and provide technical solutions. There’s a lot of automation, what we do automates a lot of manual tasks, for example, someone might do a tedious task, and they will ask me to create a program to do it, so they just enter the data instead.
+4.	Who are all the different people you interact with in your work? Please tell us about them.
+I interact with fellow team members, team leaders, team members of other application support that our systems interface with. Dealing with external auditors, loading up programs and running them. Dealing with the business, telling you what their requirements are. Project managers.
+5.	Please tell us about your interactions with other IT professionals.
+We provide solutions and work through how we will approach a solution and we must document it and have meetings with the business as well.
+6.	What about your interactions with clients or investors?
+I do not interact with customers or clients.
+7.	What aspects of your work do you spend most time on? Please tell us about these.
+I spend most time on coding.
+8.	Which aspects of your work do you find most challenging?
+Dealing with project managers, very concerned about time constraints, putting pressure on workers, must meet deadlines but these can vary depending on what problems we may encounter.
+9.	Finally, can you share an example of the work you do that best captures the essence of the IT industry?
+Provide IT solutions to improve relations with the customer and retailers. Provide efficient and accurate solutions to read meters and bill retailers for use.
+
+
+Autonomous vehicles
+Blurb: Autonomous cars are the next big technology leap the world can make, but is the technology up to scratch, ensuring the safety of all individuals involved? Large companies such as Uber and Tesla have made big strides to achieve the perfect driverless car, creating technology more advanced than ever before, but recent events involving the death of a woman in America, seem to indicate this is not enough. Along with the many benefits, self-driving cars also come with a long list of problems, click here to read more…
+
+What does it do?
+An autonomous or self-driving vehicle can drive itself without user-input, instead, these cars can take input from their surroundings to get to its destination. The idea of a self-driving car has been around for years, but even with all the advancements made in technology, big companies were not able to create a car that was successful. In 2004, a competition was opened for any team around the world to create a self-driving car that had to drive for 228 kilometres and cross a finish line, the best car only made it 11km before failing. Another competition was started, more teams entered with newer technology. One vital piece of technology that was created was a special laser radar, called a lidar, which allowed the car to construct a 3D image of its surroundings to navigate around obstacles. Another car was created with special AI technology with it being able to learn, this car was not just doing what it was told but was also processing their surroundings and drawing on past events to make decisions and choose the safest route. Today, a more developed lidar is widely used among autonomous cars, without the development of this technology, these cars would not have the same power and intelligence that they do.
+There are many benefits to autonomous cars such as elderly and children having easier and sometimes safer access to transport. The potential for human error is eliminated, decreasing the amount of crashes. Furthermore, as these cars are software and electronically driven, they will reduce the amount of pollution released into the atmosphere. Reduction in traffic, as the cars will be able to communicate with each other and plan the best route as well as a reduction in emissions as these cars are run via electricity, not fuel. It will create more jobs within the IT industry, opening pathways for experts in the fields of developers and engineers. A major benefit is the amount of time that will no longer be wasted driving places, by using a driverless car, individuals will have more time to complete work, read a book, watch a movie or do countless other activities as they will not have to concentrate on driving, freeing up many hours per week per person.
+However, there is a long list of disadvantages to accompany this as well, such as liability in a crash, if an autonomous car makes a wrong decision, it cannot be legally held responsible, but should the makers of the car? As it would be their technology that malfunctions, or would it be the owner, as they are responsible for the actions that the car makes once they purchase it. For example, a test car run by Uber, in Arizona, USA, crashed into a woman crossing the street, killing her. Questions were asked as to whether the technology was safe enough to employ into daily life, as it was not able to register a human on the road, and the aftermath of who was responsible for the crash also came into question. As of Thursday the 29th of March, Uber reached a settlement with her family, but no blame was distinctly put on the company or the test car. Another disadvantage is the loss of jobs, such as taxi and Uber drivers will be put out of a job, as these autonomous cars will likely cost less for a trip as there is no driver required to pay a wage to. 
+
+What is the likely impact?
+The likely impact upon implementation of this technology, is greater mobility for a portion of the population which did not previously have this opportunity, such as children or the elderly. They would be able to get to their destinations without the use of public transport or bikes. This technology may make taxis redundant, as consumers will no longer need them for transport, putting a lot of drivers out of work. The petrol industry would also suffer as these cars are electronic, therefore the cars would no longer need fuel. These cars may also become another device for individuals to generate an income off, they could get their car to drop them off at work, then send it off to taxi people around and earn money, and then would return at the end of the day to take the owner back home.
+
+How will this affect you?
+In day to day life, an autonomous car would be able to drop my family and I off at my closest station, to get to work or university, eliminating the need for parking, cutting down travel time by at least 20 minutes. I would also be able to do last minute work on a 35-minute car ride into the city from my home, or catch up on sleep if I went to bed late the night prior. Trips to the shops would be quicker as parking the car would not be needed. I would be able to send the car to act as a taxi for other people in need and make extra money whilst I work 8 or 9 hour shifts or am at university for the day.
+
+
+Referencing:
+https://futurism.com/images/7-benefits-of-driverless-cars/
+https://www.theguardian.com/technology/2018/mar/29/uber-settles-with-family-of-woman-killed-by-self-driving-car
